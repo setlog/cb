@@ -17,5 +17,5 @@ echo foo | cb -n
 
 ## Installation
 ```sh
-go get -u github.com/setlog./cb
+go get -u github.com/setlog/cb
 ```
